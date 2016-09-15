@@ -1,0 +1,8 @@
+<div data-prop="chat">
+  <div data-prop="messages">test message</div>
+  <form data-prop="message_form">
+    <input data-prop="csrf"/>
+    <input type="password" data-prop="message_input"/>
+    <button type="submit">Send</button>
+  </form>
+</div>
